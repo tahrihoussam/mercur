@@ -27,6 +27,7 @@
     "generate:oas": "medusa-oas oas --type combined --paths ./src/api"
   },
   "dependencies": {
+    "turbo": "^2.3.3",
     "@medusajs/admin-sdk": "2.7.0",
     "@medusajs/cli": "2.7.0",
     "@medusajs/framework": "2.7.0",
